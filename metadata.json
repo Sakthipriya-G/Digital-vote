@@ -1,0 +1,6 @@
+{
+  "name": "Smart Election Portal",
+  "description": "Educational demonstration digital voter services and election management platform with role-based portals, application tracking, polling station finder, and security monitoring.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
